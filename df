@@ -1,0 +1,128 @@
+[33m80bed2c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m changed names
+[1mdiff --git a/file1.js b/file1.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7227011[m
+[1m--- /dev/null[m
+[1m+++ b/file1.js[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32mhello[m
+[32m+[m[32mtest[m
+[32m+[m[32mhelloworldagain[m
+[32m+[m[32mheifksjadfls[m
+[32m+[m[32mfs[m
+\ No newline at end of file[m
+[1mdiff --git a/file2.js b/file2.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..282b6f3[m
+[1m--- /dev/null[m
+[1m+++ b/file2.js[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mhello[m
+[32m+[m[32mHello world again did[m
+\ No newline at end of file[m
+[33mf23ea4e[m another commit done
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mindex 061b959..282b6f3 100644[m
+[1m--- a/file2.txt[m
+[1m+++ b/file2.txt[m
+[36m@@ -1,2 +1,2 @@[m
+ hello[m
+[31m-Hello world anotehrchanger[m
+\ No newline at end of file[m
+[32m+[m[32mHello world again did[m
+\ No newline at end of file[m
+[33mc9f21ca[m reverted
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mindex 70ee6ae..061b959 100644[m
+[1m--- a/file2.txt[m
+[1m+++ b/file2.txt[m
+[36m@@ -1,2 +1,2 @@[m
+ hello[m
+[31m-Hello world[m
+\ No newline at end of file[m
+[32m+[m[32mHello world anotehrchanger[m
+\ No newline at end of file[m
+[33m742380a[m changes done in bothe files
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mindex 2c87aa0..7227011 100644[m
+[1m--- a/file1.txt[m
+[1m+++ b/file1.txt[m
+[36m@@ -1,3 +1,5 @@[m
+ hello[m
+ test[m
+ helloworldagain[m
+[32m+[m[32mheifksjadfls[m
+[32m+[m[32mfs[m
+\ No newline at end of file[m
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mindex ce01362..70ee6ae 100644[m
+[1m--- a/file2.txt[m
+[1m+++ b/file2.txt[m
+[36m@@ -1 +1,2 @@[m
+ hello[m
+[32m+[m[32mHello world[m
+\ No newline at end of file[m
+[33m4f0c51f[m Change the hello world file1
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mindex b2b9cc9..2c87aa0 100644[m
+[1m--- a/file1.txt[m
+[1m+++ b/file1.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ hello[m
+ test[m
+[32m+[m[32mhelloworldagain[m
+[33mf763694[m fix the bug that prevented user from signingup
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mindex ce01362..b2b9cc9 100644[m
+[1m--- a/file1.txt[m
+[1m+++ b/file1.txt[m
+[36m@@ -1 +1,2 @@[m
+ hello[m
+[32m+[m[32mtest[m
+[33m6602852[m initial comment
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce01362[m
+[1m--- /dev/null[m
+[1m+++ b/file1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello[m
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce01362[m
+[1m--- /dev/null[m
+[1m+++ b/file2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello[m
+[33m8cec5a4[m Revert "initial commet"
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 94954ab..0000000[m
+[1m--- a/file1.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,2 +0,0 @@[m
+[31m-hello[m
+[31m-world[m
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mdeleted file mode 100644[m
+[1mindex ce01362..0000000[m
+[1m--- a/file2.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-hello[m
+[33m3beef0c[m initial commet
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..94954ab[m
+[1m--- /dev/null[m
+[1m+++ b/file1.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mhello[m
+[32m+[m[32mworld[m
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce01362[m
+[1m--- /dev/null[m
+[1m+++ b/file2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello[m
